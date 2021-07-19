@@ -1,0 +1,104 @@
+2021-06-09 12:16:58.389 [main] INFO  com.dz.o2o.Newo2oApplication - Starting Newo2oApplication on dongzheng.local with PID 8248 (/Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o/target/classes started by dongzheng in /Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o)
+2021-06-09 12:16:58.394 [main] INFO  com.dz.o2o.Newo2oApplication - No active profile set, falling back to default profiles: default
+2021-06-09 12:17:00.782 [main] INFO  com.dz.o2o.Newo2oApplication - Started Newo2oApplication in 2.59 seconds (JVM running for 3.004)
+2021-06-09 12:23:01.757 [main] INFO  com.dz.o2o.Newo2oApplication - Starting Newo2oApplication on dongzheng.local with PID 8313 (/Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o/target/classes started by dongzheng in /Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o)
+2021-06-09 12:23:01.767 [main] INFO  com.dz.o2o.Newo2oApplication - No active profile set, falling back to default profiles: default
+2021-06-09 12:23:05.094 [main] INFO  com.dz.o2o.Newo2oApplication - Started Newo2oApplication in 3.855 seconds (JVM running for 4.669)
+2021-06-09 12:34:46.619 [main] INFO  com.dz.o2o.Newo2oApplication - Starting Newo2oApplication on dongzheng.local with PID 8436 (/Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o/target/classes started by dongzheng in /Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o)
+2021-06-09 12:34:46.623 [main] INFO  com.dz.o2o.Newo2oApplication - No active profile set, falling back to default profiles: default
+2021-06-09 12:34:49.072 [main] INFO  com.dz.o2o.Newo2oApplication - Started Newo2oApplication in 2.846 seconds (JVM running for 3.255)
+2021-06-09 12:38:22.672 [main] INFO  com.dz.o2o.Newo2oApplication - Starting Newo2oApplication on dongzheng.local with PID 8471 (/Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o/target/classes started by dongzheng in /Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o)
+2021-06-09 12:38:22.682 [main] INFO  com.dz.o2o.Newo2oApplication - No active profile set, falling back to default profiles: default
+2021-06-09 12:38:26.110 [main] INFO  com.dz.o2o.Newo2oApplication - Started Newo2oApplication in 3.924 seconds (JVM running for 4.698)
+2021-06-09 13:02:19.514 [main] INFO  com.dz.o2o.Newo2oApplication - Starting Newo2oApplication on dongzheng.local with PID 8668 (/Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o/target/classes started by dongzheng in /Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o)
+2021-06-09 13:02:19.518 [main] INFO  com.dz.o2o.Newo2oApplication - No active profile set, falling back to default profiles: default
+2021-06-09 13:02:21.939 [main] INFO  com.dz.o2o.Newo2oApplication - Started Newo2oApplication in 2.625 seconds (JVM running for 3.03)
+2021-06-09 13:32:15.850 [main] INFO  com.dz.o2o.dao.AwardDaoTest - Starting AwardDaoTest on dongzheng.local with PID 8940 (started by dongzheng in /Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o)
+2021-06-09 13:32:15.852 [main] INFO  com.dz.o2o.dao.AwardDaoTest - No active profile set, falling back to default profiles: default
+2021-06-09 13:32:18.023 [main] INFO  com.dz.o2o.dao.AwardDaoTest - Started AwardDaoTest in 2.358 seconds (JVM running for 3.128)
+2021-06-09 13:34:44.481 [main] INFO  com.dz.o2o.dao.AwardDaoTest - Starting AwardDaoTest on dongzheng.local with PID 8964 (started by dongzheng in /Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o)
+2021-06-09 13:34:44.483 [main] INFO  com.dz.o2o.dao.AwardDaoTest - No active profile set, falling back to default profiles: default
+2021-06-09 13:34:46.633 [main] INFO  com.dz.o2o.dao.AwardDaoTest - Started AwardDaoTest in 2.534 seconds (JVM running for 3.205)
+2021-06-09 13:35:54.645 [main] INFO  com.dz.o2o.dao.AwardDaoTest - Starting AwardDaoTest on dongzheng.local with PID 8984 (started by dongzheng in /Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o)
+2021-06-09 13:35:54.647 [main] INFO  com.dz.o2o.dao.AwardDaoTest - No active profile set, falling back to default profiles: default
+2021-06-09 13:35:56.763 [main] INFO  com.dz.o2o.dao.AwardDaoTest - Started AwardDaoTest in 2.286 seconds (JVM running for 2.957)
+2021-06-09 13:44:13.247 [main] INFO  com.dz.o2o.dao.UserAwardMapDaoTest - Starting UserAwardMapDaoTest on dongzheng.local with PID 9067 (started by dongzheng in /Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o)
+2021-06-09 13:44:13.249 [main] INFO  com.dz.o2o.dao.UserAwardMapDaoTest - No active profile set, falling back to default profiles: default
+2021-06-09 13:44:15.552 [main] INFO  com.dz.o2o.dao.UserAwardMapDaoTest - Started UserAwardMapDaoTest in 2.495 seconds (JVM running for 3.235)
+2021-06-09 13:55:15.337 [main] INFO  com.dz.o2o.dao.UserAwardMapDaoTest - Starting UserAwardMapDaoTest on dongzheng.local with PID 9236 (started by dongzheng in /Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o)
+2021-06-09 13:55:15.338 [main] INFO  com.dz.o2o.dao.UserAwardMapDaoTest - No active profile set, falling back to default profiles: default
+2021-06-09 13:55:17.620 [main] INFO  com.dz.o2o.dao.UserAwardMapDaoTest - Started UserAwardMapDaoTest in 2.678 seconds (JVM running for 3.417)
+2021-06-09 13:58:19.851 [main] INFO  com.dz.o2o.dao.UserAwardMapDaoTest - Starting UserAwardMapDaoTest on dongzheng.local with PID 9282 (started by dongzheng in /Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o)
+2021-06-09 13:58:19.852 [main] INFO  com.dz.o2o.dao.UserAwardMapDaoTest - No active profile set, falling back to default profiles: default
+2021-06-09 13:58:21.999 [main] INFO  com.dz.o2o.dao.UserAwardMapDaoTest - Started UserAwardMapDaoTest in 2.511 seconds (JVM running for 3.189)
+2021-06-09 14:03:33.205 [main] INFO  com.dz.o2o.dao.UserProductMapDaoTest - Starting UserProductMapDaoTest on dongzheng.local with PID 9330 (started by dongzheng in /Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o)
+2021-06-09 14:03:33.207 [main] INFO  com.dz.o2o.dao.UserProductMapDaoTest - No active profile set, falling back to default profiles: default
+2021-06-09 14:03:35.332 [main] INFO  com.dz.o2o.dao.UserProductMapDaoTest - Started UserProductMapDaoTest in 2.436 seconds (JVM running for 3.065)
+2021-06-09 14:04:10.762 [main] INFO  com.dz.o2o.dao.UserProductMapDaoTest - Starting UserProductMapDaoTest on dongzheng.local with PID 9337 (started by dongzheng in /Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o)
+2021-06-09 14:04:10.763 [main] INFO  com.dz.o2o.dao.UserProductMapDaoTest - No active profile set, falling back to default profiles: default
+2021-06-09 14:04:12.865 [main] INFO  com.dz.o2o.dao.UserProductMapDaoTest - Started UserProductMapDaoTest in 2.261 seconds (JVM running for 2.874)
+2021-06-09 14:08:23.097 [main] INFO  com.dz.o2o.dao.UserProductMapDaoTest - Starting UserProductMapDaoTest on dongzheng.local with PID 9373 (started by dongzheng in /Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o)
+2021-06-09 14:08:23.099 [main] INFO  com.dz.o2o.dao.UserProductMapDaoTest - No active profile set, falling back to default profiles: default
+2021-06-09 14:08:25.266 [main] INFO  com.dz.o2o.dao.UserProductMapDaoTest - Started UserProductMapDaoTest in 2.34 seconds (JVM running for 2.997)
+2021-06-09 14:09:27.982 [main] INFO  com.dz.o2o.dao.UserProductMapDaoTest - Starting UserProductMapDaoTest on dongzheng.local with PID 9394 (started by dongzheng in /Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o)
+2021-06-09 14:09:27.982 [main] INFO  com.dz.o2o.dao.UserProductMapDaoTest - No active profile set, falling back to default profiles: default
+2021-06-09 14:09:30.126 [main] INFO  com.dz.o2o.dao.UserProductMapDaoTest - Started UserProductMapDaoTest in 2.315 seconds (JVM running for 2.921)
+2021-06-09 14:09:58.879 [main] INFO  com.dz.o2o.dao.UserProductMapDaoTest - Starting UserProductMapDaoTest on dongzheng.local with PID 9399 (started by dongzheng in /Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o)
+2021-06-09 14:09:58.881 [main] INFO  com.dz.o2o.dao.UserProductMapDaoTest - No active profile set, falling back to default profiles: default
+2021-06-09 14:10:01.000 [main] INFO  com.dz.o2o.dao.UserProductMapDaoTest - Started UserProductMapDaoTest in 2.287 seconds (JVM running for 3.004)
+2021-06-09 14:10:17.622 [main] INFO  com.dz.o2o.dao.UserProductMapDaoTest - Starting UserProductMapDaoTest on dongzheng.local with PID 9402 (started by dongzheng in /Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o)
+2021-06-09 14:10:17.623 [main] INFO  com.dz.o2o.dao.UserProductMapDaoTest - No active profile set, falling back to default profiles: default
+2021-06-09 14:10:19.736 [main] INFO  com.dz.o2o.dao.UserProductMapDaoTest - Started UserProductMapDaoTest in 2.284 seconds (JVM running for 2.929)
+2021-06-09 14:25:23.404 [main] INFO  com.dz.o2o.dao.ProductSellDailyDaoTest - Starting ProductSellDailyDaoTest on dongzheng.local with PID 9549 (started by dongzheng in /Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o)
+2021-06-09 14:25:23.406 [main] INFO  com.dz.o2o.dao.ProductSellDailyDaoTest - No active profile set, falling back to default profiles: default
+2021-06-09 14:25:25.626 [main] INFO  com.dz.o2o.dao.ProductSellDailyDaoTest - Started ProductSellDailyDaoTest in 2.614 seconds (JVM running for 3.284)
+2021-06-09 14:32:55.753 [main] INFO  com.dz.o2o.dao.ProductSellDailyDaoTest - Starting ProductSellDailyDaoTest on dongzheng.local with PID 9618 (started by dongzheng in /Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o)
+2021-06-09 14:32:55.755 [main] INFO  com.dz.o2o.dao.ProductSellDailyDaoTest - No active profile set, falling back to default profiles: default
+2021-06-09 14:32:57.920 [main] INFO  com.dz.o2o.dao.ProductSellDailyDaoTest - Started ProductSellDailyDaoTest in 2.469 seconds (JVM running for 3.141)
+2021-06-09 14:36:15.960 [main] INFO  com.dz.o2o.dao.ProductSellDailyDaoTest - Starting ProductSellDailyDaoTest on dongzheng.local with PID 9647 (started by dongzheng in /Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o)
+2021-06-09 14:36:15.961 [main] INFO  com.dz.o2o.dao.ProductSellDailyDaoTest - No active profile set, falling back to default profiles: default
+2021-06-09 14:36:18.146 [main] INFO  com.dz.o2o.dao.ProductSellDailyDaoTest - Started ProductSellDailyDaoTest in 2.5 seconds (JVM running for 3.131)
+2021-06-09 18:48:21.599 [main] INFO  com.dz.o2o.dao.UserShopMapDaoTest - Starting UserShopMapDaoTest on dongzheng.local with PID 10670 (started by dongzheng in /Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o)
+2021-06-09 18:48:21.601 [main] INFO  com.dz.o2o.dao.UserShopMapDaoTest - No active profile set, falling back to default profiles: default
+2021-06-09 18:48:23.808 [main] INFO  com.dz.o2o.dao.UserShopMapDaoTest - Started UserShopMapDaoTest in 2.523 seconds (JVM running for 3.268)
+2021-06-09 18:50:44.931 [main] INFO  com.dz.o2o.dao.UserShopMapDaoTest - Starting UserShopMapDaoTest on dongzheng.local with PID 10690 (started by dongzheng in /Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o)
+2021-06-09 18:50:44.932 [main] INFO  com.dz.o2o.dao.UserShopMapDaoTest - No active profile set, falling back to default profiles: default
+2021-06-09 18:50:47.146 [main] INFO  com.dz.o2o.dao.UserShopMapDaoTest - Started UserShopMapDaoTest in 2.534 seconds (JVM running for 3.157)
+2021-06-09 18:56:59.572 [main] INFO  com.dz.o2o.Newo2oApplication - Starting Newo2oApplication on dongzheng.local with PID 10744 (/Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o/target/classes started by dongzheng in /Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o)
+2021-06-09 18:56:59.576 [main] INFO  com.dz.o2o.Newo2oApplication - No active profile set, falling back to default profiles: default
+2021-06-09 18:57:01.993 [main] INFO  com.dz.o2o.Newo2oApplication - Started Newo2oApplication in 2.834 seconds (JVM running for 3.233)
+2021-06-09 19:05:52.252 [main] INFO  com.dz.o2o.Newo2oApplication - Starting Newo2oApplication on dongzheng.local with PID 10836 (/Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o/target/classes started by dongzheng in /Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o)
+2021-06-09 19:05:52.255 [main] INFO  com.dz.o2o.Newo2oApplication - No active profile set, falling back to default profiles: default
+2021-06-09 19:05:54.691 [main] INFO  com.dz.o2o.Newo2oApplication - Started Newo2oApplication in 2.8 seconds (JVM running for 3.197)
+2021-06-09 19:08:41.688 [main] INFO  com.dz.o2o.Newo2oApplication - Starting Newo2oApplication on dongzheng.local with PID 10892 (/Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o/target/classes started by dongzheng in /Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o)
+2021-06-09 19:08:41.691 [main] INFO  com.dz.o2o.Newo2oApplication - No active profile set, falling back to default profiles: default
+2021-06-09 19:08:44.048 [main] INFO  com.dz.o2o.Newo2oApplication - Started Newo2oApplication in 2.558 seconds (JVM running for 2.961)
+2021-06-09 19:18:43.144 [main] INFO  com.dz.o2o.Newo2oApplication - Starting Newo2oApplication on dongzheng.local with PID 11041 (/Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o/target/classes started by dongzheng in /Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o)
+2021-06-09 19:18:43.149 [main] INFO  com.dz.o2o.Newo2oApplication - No active profile set, falling back to default profiles: default
+2021-06-09 19:30:57.109 [main] INFO  com.dz.o2o.Newo2oApplication - Starting Newo2oApplication on dongzheng.local with PID 11193 (/Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o/target/classes started by dongzheng in /Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o)
+2021-06-09 19:30:57.113 [main] INFO  com.dz.o2o.Newo2oApplication - No active profile set, falling back to default profiles: default
+2021-06-09 19:30:59.616 [main] INFO  com.dz.o2o.Newo2oApplication - Started Newo2oApplication in 2.886 seconds (JVM running for 3.315)
+2021-06-09 19:50:33.812 [main] INFO  com.dz.o2o.Newo2oApplication - Starting Newo2oApplication on dongzheng.local with PID 11369 (/Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o/target/classes started by dongzheng in /Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o)
+2021-06-09 19:50:33.814 [main] INFO  com.dz.o2o.Newo2oApplication - No active profile set, falling back to default profiles: default
+2021-06-09 19:50:36.248 [main] INFO  com.dz.o2o.Newo2oApplication - Started Newo2oApplication in 2.928 seconds (JVM running for 3.336)
+2021-06-09 19:54:22.820 [main] INFO  com.dz.o2o.Newo2oApplication - Starting Newo2oApplication on dongzheng.local with PID 11440 (/Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o/target/classes started by dongzheng in /Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o)
+2021-06-09 19:54:22.822 [main] INFO  com.dz.o2o.Newo2oApplication - No active profile set, falling back to default profiles: default
+2021-06-09 19:54:25.181 [main] INFO  com.dz.o2o.Newo2oApplication - Started Newo2oApplication in 2.569 seconds (JVM running for 2.98)
+2021-06-09 19:59:34.194 [main] INFO  com.dz.o2o.Newo2oApplication - Starting Newo2oApplication on dongzheng.local with PID 11460 (/Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o/target/classes started by dongzheng in /Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o)
+2021-06-09 19:59:34.197 [main] INFO  com.dz.o2o.Newo2oApplication - No active profile set, falling back to default profiles: default
+2021-06-09 19:59:36.605 [main] INFO  com.dz.o2o.Newo2oApplication - Started Newo2oApplication in 2.608 seconds (JVM running for 3.015)
+2021-06-09 20:13:33.851 [main] INFO  com.dz.o2o.Newo2oApplication - Starting Newo2oApplication on dongzheng.local with PID 11563 (/Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o/target/classes started by dongzheng in /Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o)
+2021-06-09 20:13:33.854 [main] INFO  com.dz.o2o.Newo2oApplication - No active profile set, falling back to default profiles: default
+2021-06-09 20:13:36.368 [main] INFO  com.dz.o2o.Newo2oApplication - Started Newo2oApplication in 2.724 seconds (JVM running for 3.158)
+2021-06-09 20:33:08.524 [main] INFO  com.dz.o2o.Newo2oApplication - Starting Newo2oApplication on dongzheng.local with PID 11703 (/Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o/target/classes started by dongzheng in /Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o)
+2021-06-09 20:33:08.526 [main] INFO  com.dz.o2o.Newo2oApplication - No active profile set, falling back to default profiles: default
+2021-06-09 20:33:10.997 [main] INFO  com.dz.o2o.Newo2oApplication - Started Newo2oApplication in 2.84 seconds (JVM running for 3.249)
+2021-06-09 20:34:50.035 [main] INFO  com.dz.o2o.Newo2oApplication - Starting Newo2oApplication on dongzheng.local with PID 11724 (/Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o/target/classes started by dongzheng in /Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o)
+2021-06-09 20:34:50.040 [main] INFO  com.dz.o2o.Newo2oApplication - No active profile set, falling back to default profiles: default
+2021-06-09 20:34:53.419 [main] INFO  com.dz.o2o.Newo2oApplication - Started Newo2oApplication in 3.659 seconds (JVM running for 4.508)
+2021-06-09 20:37:54.635 [main] INFO  com.dz.o2o.Newo2oApplication - Starting Newo2oApplication on dongzheng.local with PID 11757 (/Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o/target/classes started by dongzheng in /Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o)
+2021-06-09 20:37:54.638 [main] INFO  com.dz.o2o.Newo2oApplication - No active profile set, falling back to default profiles: default
+2021-06-09 20:37:57.014 [main] INFO  com.dz.o2o.Newo2oApplication - Started Newo2oApplication in 2.786 seconds (JVM running for 3.198)
+2021-06-09 20:38:39.756 [main] INFO  com.dz.o2o.Newo2oApplication - Starting Newo2oApplication on dongzheng.local with PID 11769 (/Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o/target/classes started by dongzheng in /Users/dongzheng/workspace-spring-tool-suite-4-4.10.0.RELEASE/newo2o)
+2021-06-09 20:38:39.760 [main] INFO  com.dz.o2o.Newo2oApplication - No active profile set, falling back to default profiles: default
+2021-06-09 20:38:43.082 [main] INFO  com.dz.o2o.Newo2oApplication - Started Newo2oApplication in 3.605 seconds (JVM running for 4.386)
